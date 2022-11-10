@@ -1,2 +1,2 @@
-# My-website-
-It is my website
+My friend xobo 😆😆 <img src="sun.jpg">
+
