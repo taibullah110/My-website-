@@ -1,3 +1,12 @@
+
+
+
+
+<html>
+<body>
+
+
+
 My friend xobo 😆😆
 <a href="https://www.facebook.com/jobo.jobo143">
   
@@ -6,3 +15,5 @@ My friend xobo 😆😆
 
 <img src="sun.jpg">
 </a>
+</body>
+</html>
